@@ -2,6 +2,5 @@ mastercard 2
 mastercard
 mp
 :i
-:i
-visa
+nuevisima tarjeta
 tajetas nuev
