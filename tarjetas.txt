@@ -1,3 +1,4 @@
 mastercard 2
 mastercard
 visa
+modificamos la tarjeta de vueta
